@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**BasicCorruption/BasicCorruption** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sid and I program mostly in haxe.
 
-Here are some ideas to get you started:
+# About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I know
+-CSS
+-C++
+-Haxe
+-HTML
+-Lua
+-Java
+-JavaScript
+
+I make a lot of Minecraft mods and 2D games.
