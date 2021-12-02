@@ -6,12 +6,12 @@ My name is Sid and I program mostly in haxe.
 
 <details>
   <summary>Languages I know</summary>
-CSS
-C++
-Haxe
-HTML
-Lua
-Java
+CSS<br>
+C++<br>
+Haxe<br>
+HTML<br>
+Lua<br>
+Java<br>
 JavaScript
 </details>
 
