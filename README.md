@@ -16,3 +16,5 @@ JavaScript
 </details>
 
 I make a lot of Minecraft mods and 2D games.
+
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption)](https://github.com/anuraghazra/github-readme-stats)
