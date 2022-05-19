@@ -1,4 +1,4 @@
-github readme stats theme: slateorange
+github readme stats theme: dracula
 
 # Hi there 👋
 
@@ -19,6 +19,6 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Languages" "https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=dracula">
