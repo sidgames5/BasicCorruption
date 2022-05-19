@@ -1,4 +1,4 @@
-github readme stats theme: {{ github_readme_stats_theme }}
+github readme stats theme: vue-dark
 
 # Hi there 👋
 
