@@ -15,7 +15,7 @@ fs.readFile('src/README.md', 'utf8', (err, data) => {
     "README.md",
     data
       .replace(/{{ github_readme_stats_theme }}/g, github_readme_stats_theme)
-      /*.replace(/{{ npm_expansion }}/g, npm_expansion),*/
+      .replace(/{{ npm_expansion }}/g, npm_expansion),
     'utf8',
     err => {
       if (err) return console.error(err);
