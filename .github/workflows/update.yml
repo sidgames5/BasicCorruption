@@ -36,7 +36,6 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git remote add origin https://github.com/basiccorruption/basiccorruption.git
         git add .
         git commit -m "Update README.md"
         git push https://github-actions[bot]:${{ secrets.TOKEN }}@github.com/basiccorruption/basiccorruption.git master
