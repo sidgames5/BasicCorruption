@@ -1,3 +1,5 @@
+github readme stats theme: {{ github_readme_stats_theme }}
+
 # Hi there 👋
 
 My name is Sid and I program mostly in haxe.
