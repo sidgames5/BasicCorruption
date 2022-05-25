@@ -1,4 +1,4 @@
-<!-- github readme stats theme: {{ github_readme_stats_theme }} -->
+<!-- github readme stats theme: radical -->
 
 # Hi there 👋
 
@@ -27,4 +27,4 @@ I make a lot of Minecraft mods and 2D games.
 
 [![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme={{ github_readme_stats_theme_1 }})](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme={{ github_readme_stats_theme_2 }})](https://github.com/anuraghazra/github-readme-stats)
