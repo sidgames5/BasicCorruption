@@ -27,11 +27,8 @@ jobs:
       with:
         node-version: 12.18.3
     # Runs a single command using the runners shell
-    - name: Update 1
+    - name: Update
       run: node update.js
-      
-    - name: Update 2
-      run: node update2.js
         
     - name: Push
       env:
