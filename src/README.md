@@ -6,9 +6,9 @@ My name is Sid and I program mostly in haxe.
 
 # Currently working on
 
-The [MLG Land Website](http://mlgland.net)
+Learning Java
 
-Task: Migrating all PHP code to JavaScript
+Task: Making a new game called "CityScape"
 
 # About me
 
