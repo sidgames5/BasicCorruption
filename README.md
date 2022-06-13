@@ -1,4 +1,4 @@
-<!-- github readme stats theme: onedark -->
+<!-- github readme stats theme: radical -->
 
 # Hi there 👋
 
@@ -25,6 +25,6 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
