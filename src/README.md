@@ -31,4 +31,4 @@ I make a lot of Minecraft mods and 2D games.
 
 Wakatime Stats
 
-[![Sid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=basiccorruption)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bbd806cc-b9f1-4d9f-86c9-8ef7d0572bd1)](https://github.com/anuraghazra/github-readme-stats)
