@@ -4,6 +4,10 @@
 
 My name is Sid and I program mostly in haxe.
 
+# Random stats
+
+[![wakatime](https://wakatime.com/badge/user/bbd806cc-b9f1-4d9f-86c9-8ef7d0572bd1.svg)](https://wakatime.com/@bbd806cc-b9f1-4d9f-86c9-8ef7d0572bd1)
+
 # Currently working on
 
 Learning Java
