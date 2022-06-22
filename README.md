@@ -1,8 +1,12 @@
-<!-- github readme stats theme: darcula -->
+<!-- github readme stats theme: algolia -->
 
 # Hi there 👋
 
 My name is Sid and I program mostly in haxe.
+
+# Random stats
+
+[![wakatime](https://wakatime.com/badge/user/bbd806cc-b9f1-4d9f-86c9-8ef7d0572bd1.svg)](https://wakatime.com/@bbd806cc-b9f1-4d9f-86c9-8ef7d0572bd1)
 
 # Currently working on
 
@@ -25,9 +29,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
