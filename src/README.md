@@ -12,7 +12,7 @@ My name is Sid and I program mostly in haxe.
 
 Learning Java
 
-Task: Making a new game called "CityScape"
+Task: Making a minecraft mod ["WayMoreOres"](https://www.curseforge.com/minecraft/mc-mods/waymoreores)
 
 # About me
 
