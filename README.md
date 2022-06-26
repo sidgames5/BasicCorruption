@@ -1,4 +1,4 @@
-<!-- github readme stats theme: maroongold -->
+<!-- github readme stats theme: buefy -->
 
 # Hi there 👋
 
@@ -12,7 +12,7 @@ My name is Sid and I program mostly in haxe.
 
 Learning Java
 
-Task: Making a new game called "CityScape"
+Task: Making a minecraft mod ["WayMoreOres"](https://www.curseforge.com/minecraft/mc-mods/waymoreores)
 
 # About me
 
@@ -29,9 +29,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
