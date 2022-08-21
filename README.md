@@ -1,4 +1,4 @@
-<!-- github readme stats theme: tokyonight -->
+<!-- github readme stats theme: prussian -->
 
 # Hi there 👋
 
@@ -29,9 +29,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
