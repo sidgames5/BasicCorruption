@@ -1,4 +1,4 @@
-<!-- github readme stats theme: vision-friendly-dark -->
+<!-- github readme stats theme: darcula -->
 
 # Hi there 👋
 
@@ -29,9 +29,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
