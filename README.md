@@ -1,4 +1,4 @@
-<!-- github readme stats theme: maroongold -->
+<!-- github readme stats theme: solarized-light -->
 
 # Hi there 👋
 
@@ -29,9 +29,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
