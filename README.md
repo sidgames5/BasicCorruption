@@ -1,4 +1,4 @@
-<!-- github readme stats theme: shades-of-purple -->
+<!-- github readme stats theme: vue -->
 
 # Hi there 👋
 
@@ -10,16 +10,15 @@ My name is Sid and I program mostly in haxe.
 
 # Currently working on
 
-Learning Java
+Learning Unity/C#
 
-Task: Making a minecraft mod ["WayMoreOres"](https://www.curseforge.com/minecraft/mc-mods/waymoreores)
+Task: Making a 2D game
 
 # About me
 
 <details>
   <summary>Languages I know</summary>
 CSS<br>
-C++<br>
 Haxe<br>
 HTML<br>
 Lua<br>
@@ -29,9 +28,9 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
