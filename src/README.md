@@ -10,16 +10,15 @@ My name is Sid and I program mostly in haxe.
 
 # Currently working on
 
-Learning Java
+Learning Unity/C#
 
-Task: Making a minecraft mod ["WayMoreOres"](https://www.curseforge.com/minecraft/mc-mods/waymoreores)
+Task: Making a 2D game
 
 # About me
 
 <details>
   <summary>Languages I know</summary>
 CSS<br>
-C++<br>
 Haxe<br>
 HTML<br>
 Lua<br>
