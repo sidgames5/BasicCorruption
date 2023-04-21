@@ -10,9 +10,9 @@ My name is Sid and I program mostly in haxe.
 
 # Currently working on
 
-Learning Unity/C#
+Learning Java
 
-Task: Making a 2D game
+Task: Making a Minecraft mod
 
 # About me
 
