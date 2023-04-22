@@ -30,7 +30,7 @@ I make a lot of Minecraft mods and 2D games.
 
 [![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiccorruption&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=basiccorruption&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats
 
