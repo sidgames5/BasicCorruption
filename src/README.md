@@ -6,9 +6,9 @@ My name is Sid and I mostly program in java.
 
 # Currently working on
 
-Learning Java
+My chat app named "Prism".
 
-Task: Making a game
+Projects: prism-android (Android client), prism.hx (API implementation for Haxe)
 
 # About me
 
@@ -19,7 +19,7 @@ Haxe<br>
 HTML<br>
 Lua<br>
 Java<br>
-JavaScript
+JavaScript (barely)
 </details>
 
 I make a lot of Minecraft mods and 2D games.
