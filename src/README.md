@@ -34,4 +34,4 @@ Email: `sidgames6@proton.me`
 
 Matrix: `@sidgames6:matrix.org`
 
-Mastodon: `@sidgames5@mastodon.gamedev.place`
+Mastodon: `@sidgames5@mastodon.social`
