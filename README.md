@@ -1,4 +1,4 @@
-<!-- github readme stats theme: onedark -->
+<!-- github readme stats theme: graywhite -->
 
 # Hi there 👋
 
@@ -24,9 +24,8 @@ JavaScript
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
@@ -34,4 +33,4 @@ Email: `sidgames6@proton.me`
 
 Matrix: `@sidgames6:matrix.org`
 
-Mastodon: `@sidgames5@mastodon.gamedev.place`
+Mastodon: `@sidgames5@mastodon.social`
