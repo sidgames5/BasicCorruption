@@ -29,8 +29,8 @@ I make a lot of Minecraft mods and 2D games.
 
 # Contact
 
-Email: `sidgames6@proton.me`
+Email: [sidgames6@proton.me](mailto:sidgames6@proton.me)
 
 Matrix: `@sidgames6:matrix.org`
 
-Mastodon: `@sidgames5@mastodon.social`
+Mastodon: [@sidgames5@mastodon.social](https://mastodon.social/@sidgames5)
