@@ -8,7 +8,7 @@ My name is Sid and I mostly program in java.
 
 My chat app named "Prism".
 
-Projects: prism-android (Android client), prism.hx (API implementation for Haxe)
+Projects: prism-android (Android client), prism.hx (API wrapper for Haxe)
 
 # About me
 
