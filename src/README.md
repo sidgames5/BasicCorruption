@@ -6,9 +6,9 @@ My name is Sid and I mostly program in java.
 
 # Currently working on
 
-My chat app named "Prism".
+My chat app named "Prism Chat".
 
-Projects: prism-android (Android client), prism.hx (API wrapper for Haxe)
+Projects: prism-android (Android client), prism4j (API wrapper for Java)
 
 # About me
 
