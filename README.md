@@ -1,4 +1,4 @@
-<!-- github readme stats theme: react -->
+<!-- github readme stats theme: dracula -->
 
 # Hi there 👋
 
@@ -6,9 +6,9 @@ My name is Sid and I mostly program in java.
 
 # Currently working on
 
-My chat app named "Prism".
+My chat app named "Prism Chat".
 
-Projects: prism-android (Android client), prism.hx (API wrapper for Haxe)
+Projects: prism-android (Android client), prism4j (API wrapper for Java)
 
 # About me
 
@@ -24,8 +24,8 @@ JavaScript (barely)
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
