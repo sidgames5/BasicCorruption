@@ -1,31 +1,30 @@
-<!-- github readme stats theme: vision-friendly-dark -->
+<!-- github readme stats theme: shades-of-purple -->
 
 # Hi there 👋
 
-My name is Sid and I mostly program in java.
+My name is Sid and I mostly program in haxe.
 
 # Currently working on
 
-My chat app named "Prism Chat".
-
-Projects: [prism-desktop](https://github.com/sidgames5/prism-desktop) (Desktop client), [prism.hx](https://github.com/sidgames5/prism.hx) (API wrapper for Haxe)
+[Learning C](https://github.com/sidgames5/learning-c)
 
 # About me
 
 <details>
   <summary>Languages I know</summary>
+C (learning)<br>
 CSS<br>
 Haxe<br>
 HTML<br>
-Lua<br>
 Java<br>
-JavaScript (barely)
+JavaScript (barely)<br>
+Kotlin
 </details>
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
