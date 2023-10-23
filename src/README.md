@@ -17,8 +17,8 @@ CSS<br>
 Haxe<br>
 HTML<br>
 Java<br>
-JavaScript (barely)<br>
-Kotlin
+JavaScript (very little)<br>
+Kotlin (very little)
 </details>
 
 I make a lot of Minecraft mods and 2D games.
