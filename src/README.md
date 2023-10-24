@@ -12,13 +12,13 @@ My name is Sid and I mostly program in haxe.
 
 <details>
   <summary>Languages I know</summary>
-C (learning)<br>
-CSS<br>
-Haxe<br>
-HTML<br>
-Java<br>
-JavaScript (very little)<br>
-Kotlin (very little)
+C - beginner<br>
+CSS - proficient<br>
+Haxe - master<br>
+HTML - proficient<br>
+Java - proficient<br>
+JavaScript - proficient<br>
+Kotlin - beginner
 </details>
 
 I make a lot of Minecraft mods and 2D games.
