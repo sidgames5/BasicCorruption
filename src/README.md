@@ -15,8 +15,8 @@ My name is Sid and I mostly program in haxe.
 C - beginner<br>
 CSS - proficient<br>
 Haxe - master<br>
-HTML - proficient<br>
-Java - proficient<br>
+HTML - advanced<br>
+Java - advanced<br>
 JavaScript - proficient<br>
 Kotlin - beginner
 </details>
