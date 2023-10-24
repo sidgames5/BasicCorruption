@@ -1,4 +1,4 @@
-<!-- github readme stats theme: blue-green -->
+<!-- github readme stats theme: solarized-dark -->
 
 # Hi there 👋
 
@@ -23,8 +23,8 @@ Kotlin - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
