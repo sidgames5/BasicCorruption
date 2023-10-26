@@ -1,4 +1,4 @@
-<!-- github readme stats theme: buefy -->
+<!-- github readme stats theme: jolly -->
 
 # Hi there 👋
 
@@ -12,19 +12,19 @@ My name is Sid and I mostly program in haxe.
 
 <details>
   <summary>Languages I know</summary>
-C - beginner<br>
-CSS - proficient<br>
+C - intermediate<br>
+CSS - advanced<br>
 Haxe - master<br>
-HTML - advanced<br>
-Java - advanced<br>
-JavaScript - proficient<br>
+HTML - expert<br>
+Java - expert<br>
+JavaScript - advanced<br>
 Kotlin - beginner
 </details>
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
