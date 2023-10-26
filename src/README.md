@@ -12,12 +12,12 @@ My name is Sid and I mostly program in haxe.
 
 <details>
   <summary>Languages I know</summary>
-C - beginner<br>
-CSS - proficient<br>
+C - intermediate<br>
+CSS - advanced<br>
 Haxe - master<br>
-HTML - advanced<br>
-Java - advanced<br>
-JavaScript - proficient<br>
+HTML - expert<br>
+Java - expert<br>
+JavaScript - advanced<br>
 Kotlin - beginner
 </details>
 
