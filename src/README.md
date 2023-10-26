@@ -6,7 +6,7 @@ My name is Sid and I mostly program in haxe.
 
 # Currently working on
 
-[Learning C](https://github.com/sidgames5/learning-c)
+[Learning Kotlin](https://github.com/sidgames5/learning-kotlin)
 
 # About me
 
