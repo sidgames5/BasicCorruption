@@ -1,4 +1,4 @@
-<!-- github readme stats theme: jolly -->
+<!-- github readme stats theme: flag-india -->
 
 # Hi there 👋
 
@@ -6,7 +6,7 @@ My name is Sid and I mostly program in haxe.
 
 # Currently working on
 
-[Learning C](https://github.com/sidgames5/learning-c)
+[Learning Kotlin](https://github.com/sidgames5/learning-kotlin)
 
 # About me
 
@@ -23,8 +23,8 @@ Kotlin - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
