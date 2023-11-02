@@ -1,8 +1,16 @@
-<!-- github readme stats theme: vue -->
+<!-- github readme stats theme: midnight-purple -->
 
 # Hi there 👋
 
-My name is Sid and I mostly program in haxe.
+```haxe
+       /\         sid@sidgames5
+      /  \        os      Arch Linux
+     /\   \       host    x86_64
+    /      \      lang    haxe
+   /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
+  /   |  |  -\    making  Symmetrical OS
+ /_-''    ''-_\   discord @sidgames5
+```
 
 # Currently working on
 
@@ -24,8 +32,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
