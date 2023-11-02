@@ -2,7 +2,15 @@
 
 # Hi there 👋
 
-My name is Sid and I mostly program in haxe.
+```haxe
+       /\         sid@sidgames5
+      /  \        os      Arch Linux
+     /\   \       host    x86_64
+    /      \      lang    haxe
+   /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
+  /   |  |  -\    making  Symmetrical OS
+ /_-''    ''-_\   discord @sidgames5
+```
 
 # Currently working on
 
