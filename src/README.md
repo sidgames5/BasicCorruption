@@ -8,13 +8,13 @@
      /\   \       host    x86_64
     /      \      lang    haxe
    /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
-  /   |  |  -\    making  Symmetrical OS
+  /   |  |  -\    making  Spiel Messenger
  /_-''    ''-_\   discord @sidgames5
 ```
 
 # Currently working on
 
-[Learning Kotlin](https://github.com/sidgames5/learning-kotlin)
+[Spiel Messenger Android App](https://github.com/sidgames5/spiel-android)
 
 # About me
 
