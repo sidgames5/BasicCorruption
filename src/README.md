@@ -26,7 +26,7 @@ Haxe - master<br>
 HTML - expert<br>
 Java - expert<br>
 JavaScript - advanced<br>
-Kotlin - beginner<br>
+Kotlin - basic<br>
 Python - beginner
 </details>
 
