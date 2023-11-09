@@ -1,4 +1,4 @@
-<!-- github readme stats theme: solarized-light -->
+<!-- github readme stats theme: algolia -->
 
 # Hi there 👋
 
@@ -8,13 +8,13 @@
      /\   \       host    x86_64
     /      \      lang    haxe
    /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
-  /   |  |  -\    making  Symmetrical OS
+  /   |  |  -\    making  Spiel Messenger
  /_-''    ''-_\   discord @sidgames5
 ```
 
 # Currently working on
 
-[Learning Kotlin](https://github.com/sidgames5/learning-kotlin)
+[Spiel Messenger Android App](https://github.com/sidgames5/spiel-android)
 
 # About me
 
@@ -32,8 +32,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
