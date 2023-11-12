@@ -35,7 +35,7 @@ Python - beginner
 I make a lot of Minecraft mods and 2D games.
 
 [![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
