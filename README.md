@@ -1,4 +1,4 @@
-<!-- github readme stats theme: ayu-mirage -->
+<!-- github readme stats theme: darcula -->
 
 # Hi there 👋
 
@@ -34,8 +34,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
