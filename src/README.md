@@ -14,8 +14,6 @@
 
 # Currently working on
 
-[Learning Android](https://github.com/sidgames5/learning-android)
-
 [Spiel Messenger Android App](https://github.com/sidgames5/spiel-android)
 
 # About me
