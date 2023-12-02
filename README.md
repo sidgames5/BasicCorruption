@@ -1,4 +1,4 @@
-<!-- github readme stats theme: great-gatsby -->
+<!-- github readme stats theme: calm -->
 
 # Hi there 👋
 
@@ -13,8 +13,6 @@
 ```
 
 # Currently working on
-
-[Learning Android](https://github.com/sidgames5/learning-android)
 
 [Spiel Messenger Android App](https://github.com/sidgames5/spiel-android)
 
@@ -34,8 +32,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
