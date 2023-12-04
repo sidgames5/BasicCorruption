@@ -1,4 +1,4 @@
-<!-- github readme stats theme: shades-of-purple -->
+<!-- github readme stats theme: gotham -->
 
 # Hi there 👋
 
@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Spiel Messenger Android App](https://github.com/sidgames5/spiel-android)
+[Learning python](https://github.com/sidgames5/learning-python)
 
 # About me
 
@@ -32,8 +32,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
