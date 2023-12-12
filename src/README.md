@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Learning python](https://github.com/sidgames5/learning-python)
+[Learning C++](https://github.com/sidgames5/learning-cxx)
 
 # About me
 
