@@ -16,6 +16,10 @@
 
 [Learning C++](https://github.com/sidgames5/learning-cxx)
 
+[Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
+
+[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
+
 # About me
 
 <details>
