@@ -1,4 +1,4 @@
-<!-- github readme stats theme: dark -->
+<!-- github readme stats theme: great-gatsby -->
 
 # Hi there 👋
 
@@ -16,6 +16,10 @@
 
 [Learning C++](https://github.com/sidgames5/learning-cxx)
 
+[Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
+
+[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
+
 # About me
 
 <details>
@@ -32,8 +36,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
