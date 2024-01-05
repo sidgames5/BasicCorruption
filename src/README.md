@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Learning Rust](https://github.com/sidgames5/learning-rust)
+[Learning Zig](https://github.com/sidgames5/learning-zig)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
