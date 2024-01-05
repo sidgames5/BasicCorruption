@@ -1,4 +1,4 @@
-<!-- github readme stats theme: flag-india -->
+<!-- github readme stats theme: vision-friendly-dark -->
 
 # Hi there 👋
 
@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Learning C++](https://github.com/sidgames5/learning-cxx)
+[Learning Rust](https://github.com/sidgames5/learning-rust)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
@@ -36,8 +36,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
