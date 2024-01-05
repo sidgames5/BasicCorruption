@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Learning C++](https://github.com/sidgames5/learning-cxx)
+[Learning Rust](https://github.com/sidgames5/learning-rust)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
