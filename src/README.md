@@ -14,11 +14,11 @@
 
 # Currently working on
 
-[Learning Zig](https://github.com/sidgames5/learning-zig)
+[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
-[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
+[Learning Dart](https://github.com/sidgames5/learning-dart)
 
 # About me
 
