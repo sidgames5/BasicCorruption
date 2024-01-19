@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
+[Spiel Web App (Haxe)](https://github.com/sidgames5/spiel-web)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
