@@ -1,4 +1,4 @@
-<!-- github readme stats theme: darcula -->
+<!-- github readme stats theme: great-gatsby -->
 
 # Hi there 👋
 
@@ -14,7 +14,7 @@
 
 # Currently working on
 
-[Spiel Android (Kotlin & Java)](https://github.com/sidgames5/spiel-android)
+[Spiel Web App (Haxe)](https://github.com/sidgames5/spiel-web)
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
@@ -36,8 +36,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
