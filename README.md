@@ -1,4 +1,4 @@
-<!-- github readme stats theme: blueberry -->
+<!-- github readme stats theme: chartreuse-dark -->
 
 # Hi there 👋
 
@@ -18,8 +18,6 @@
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
-[Learning Dart](https://github.com/sidgames5/learning-dart)
-
 # About me
 
 <details>
@@ -36,8 +34,8 @@ Python - beginner
 
 I make a lot of Minecraft mods and 2D games.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
