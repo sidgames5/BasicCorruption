@@ -18,8 +18,6 @@
 
 [Spiel Server (Haxe)](https://github.com/sidgames5/spiel-server)
 
-[Learning Dart](https://github.com/sidgames5/learning-dart)
-
 # About me
 
 <details>
