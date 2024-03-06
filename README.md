@@ -1,4 +1,4 @@
-<!-- github readme stats theme: solarized-light -->
+<!-- github readme stats theme: vue -->
 
 # Hi there 👋
 
@@ -28,8 +28,8 @@ Python - intermediate
 
 I build front-ends and back-ends for websites and I make desktop applications.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
