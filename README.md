@@ -1,4 +1,4 @@
-<!-- github readme stats theme: omni -->
+<!-- github readme stats theme: slateorange -->
 
 # Hi there 👋
 
@@ -28,7 +28,7 @@ Python - intermediate
 
 I build front-ends and back-ends for websites and I make desktop applications.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 [![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
