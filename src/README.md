@@ -16,14 +16,14 @@
 
 <details>
   <summary>Languages I know</summary>
-C - basic<br>
-CSS - advanced<br>
 Haxe - master<br>
 HTML - expert<br>
 Java - expert<br>
+CSS - advanced<br>
 JavaScript - advanced<br>
-Kotlin - basic<br>
-Python - intermediate
+Python - intermediate<br>
+C - basic<br>
+Kotlin - basic
 </details>
 
 I build front-ends and back-ends for websites and I make desktop applications.
