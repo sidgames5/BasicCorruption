@@ -1,4 +1,4 @@
-<!-- github readme stats theme: slateorange -->
+<!-- github readme stats theme: highcontrast -->
 
 # Hi there 👋
 
@@ -8,7 +8,7 @@
      /\   \       host    x86_64
     /      \      lang    haxe
    /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
-  /   |  |  -\    making  Winux
+  /   |  |  -\    making  Excalibur
  /_-''    ''-_\   discord @sidgames5
 ```
 
@@ -28,8 +28,8 @@ Python - intermediate
 
 I build front-ends and back-ends for websites and I make desktop applications.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
