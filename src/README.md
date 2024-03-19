@@ -8,7 +8,7 @@
      /\   \       host    x86_64
     /      \      lang    haxe
    /   ,,   \     editor  VS Code, IntelliJ Idea, WebStorm
-  /   |  |  -\    making  Winux
+  /   |  |  -\    making  Excalibur
  /_-''    ''-_\   discord @sidgames5
 ```
 
