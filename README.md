@@ -1,4 +1,4 @@
-<!-- github readme stats theme: vision-friendly-dark -->
+<!-- github readme stats theme: bear -->
 
 # Hi there 👋
 
@@ -28,8 +28,8 @@ Kotlin - basic
 
 I build front-ends and back-ends for websites and I make desktop applications.
 
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidgames5&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Sid's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sidgames5&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 
