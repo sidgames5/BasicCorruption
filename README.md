@@ -6,7 +6,7 @@ I post updates on my blog at [https://blog.thefossrant.com](https://blog.thefoss
 
 # Contact
 
-Email: `sidgames6@proton.me`
+Email: `sid@thefossrant.com`
 
 Matrix: `@sidgames6:matrix.org`
 
