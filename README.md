@@ -8,6 +8,6 @@ I post updates on my blog at [https://blog.thefossrant.com](https://blog.thefoss
 
 Email: `sid@thefossrant.com`
 
-Matrix: `@sidgames6:matrix.org`
+Matrix: `@sidgames:matrix.org`
 
 Mastodon: `@sidgames5@mastodon.social`
